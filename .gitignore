@@ -1,0 +1,13 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# PHP Storm specific directory
+.idea
+
+# Package lock
+package-lock.json
